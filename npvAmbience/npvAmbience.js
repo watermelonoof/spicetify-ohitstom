@@ -41,6 +41,7 @@
 		}
 
 		.Root__right-sidebar aside .xjf0Pj3YnoegOkJUpaPS.EnViFhuIR5WVeEopJHu3 {
+			height: 63px;
 			background-color: rgba(var(--spice-rgb-main), 0.2) !important;
 			backdrop-filter: blur(24px) saturate(140%) brightness(0.6);
 			border-bottom: 1px solid rgba(var(--spice-rgb-selected-row),0.2);
